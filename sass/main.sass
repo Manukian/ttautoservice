@@ -1,0 +1,116 @@
+@import 'reset'
+@import 'normalize'
+
+@font-face
+    font-family: proxima-nova
+    src: url(../../fonts/ProximaNova/ProximaNovaRegular.otf) format("opentype")
+
+@font-face
+    font-family: proxima-nova-light
+    font-weight: light
+    src: url(../../fonts/ProximaNova/ProximaNovaLight.otf) format("opentype")
+
+@font-face
+    font-family: proxima-nova-bold
+    font-weight: bold
+    src: url(../../fonts/ProximaNova/ProximaNovaBold.otf) format("opentype")
+
+@font-face
+    font-family: proxima-nova-thin
+    src: url(../../fonts/ProximaNova/ProximaNovaThin.otf) format("opentype")
+
+@font-face
+    font-family: proxima-nova-extra-bold
+    src: url(../../fonts/ProximaNova/ProximaNovaExtrabold.otf) format("opentype")
+
+#intro
+    height: 800px
+    background-image: url(../images/IMG_9544.JPG)
+    background-size: cover
+    color: yellow
+    
+.header_big
+    opacity: 0
+    font-family: proxima-nova-extra-bold
+    font-size: 80px
+    transition: 0.3s
+    
+.header_big_label
+    -webkit-transform: translateY(-200px)
+    font-family: proxima-nova-bold
+    font-size: 22px
+    opacity: 0
+    transition: 0.3s
+
+.logotype
+    position: absolute
+    left: 50%
+    top: 50%
+    margin-left: -170px
+    margin-top: -60px
+    
+.transform_clear
+    -webkit-transform: translateX(0)
+    -webkit-transform: translateY(0)
+    opacity: 1
+    
+.bottom
+    text-align: center
+    margin-top: 190px
+    
+@keyframes bounce
+    0%
+        transform: translateY(0)
+    50%
+        transform: translateY(30px)
+    100%
+        transform: translateY(0)
+        
+
+.arrow
+    opacity: 0
+    transition: 0.3s
+    cursor: pointer
+    padding: 20px
+    display: inline-block
+    width: 35px
+    -webkit-animation: bounce 2s infinite
+    -moz-animation:    bounce 2s infinite
+    -o-animation:      bounce 2s infinite
+    animation:         bounce 2s infinite
+    
+#about
+    min-height: 500px
+    text-align: center
+    padding: 100px 0
+    background-color: black
+    color: yellow
+    
+.header_medium
+    font-family: proxima-nova-thin
+    font-size: 50px
+    
+.possibilities
+    padding: 100px 0
+
+.possibilities_item
+    font-family: proxima-nova-light
+    width: 33.3%
+    float: left
+    height: 300px
+    padding: 0 60px
+    box-sizing: border-box
+
+.item_image
+    height: 35%
+    margin-bottom: 50px
+    
+.item_text
+    font-size: 20px
+    
+#map
+    height: 600px
+    
+.map
+    width: 100%
+    height: 100%
