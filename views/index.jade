@@ -2,27 +2,40 @@ doctype html
 html
   head
     title= title
+    meta(name='viewport', content='width=device-width, initial-scale=1.0')
+    script(src="https://api.tiles.mapbox.com/mapbox-gl-js/v0.25.1/mapbox-gl.js")
+    link(rel="stylesheet", href="https://api.tiles.mapbox.com/mapbox-gl-js/v0.25.1/mapbox-gl.css")
     link(rel='stylesheet', href='/stylesheets/main.css')
   body
     section#intro
-        .logotype
+        .top
+            .we_work с 9:00 - 18:00
+            .phone +382-67-311-691
+        .centered
             .header_big_label автосервис
             h1.header_big TRITONA
-            .bottom
-                img(src="../images/arrow_down_pure.svg", alt="").arrow
-    section#about
-        h2.header_medium От нас
-        .possibilities
-            .possibilities_item
-                img(src="../images/brush.svg", alt="").item_image
-                .item_text Камера Firat ULTRA для окраски и сушки автомобилей
-            .possibilities_item
-                img(src="../images/insurance.svg", alt="").item_image
-                .item_text Работа со страховыми фирмами Черногории
-            .possibilities_item
-                img(src="../images/guarantee.svg", alt="").item_image
-                .item_text Гарантия на все виды работ
+        .bottom
+            img(src="../images/arrow_down_pure.svg", alt="").arrow
+    section#what_we_do
+        .wrapper
+            .label 
+                .word Услуги
+            .info
+                .info_row Кузовные работы 
+                .info_row Восстановление геометрии кузова
+                .info_row Автопокраска
+                .info_row Полировка
+                .info_row Автослесарные работы (автоподъемник грузоподъемностью 2,3 т)
+            .label 
+                .word Наши возможности
+            .info
+                .info_row Камера Firat ULTRA для окраски и сушки автомобилей
+                .info_row Работа со страховыми компаниями Черногории
+                .info_row Гарантия на все виды работ
     section#map
-        iframe(src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2947.20336811844!2d18.75348931545701!3d42.38081397918557!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDLCsDIyJzUwLjkiTiAxOMKwNDUnMjAuNCJF!5e0!3m2!1sru!2sde!4v1475496217579', frameborder='0', style='border:0', allowfullscreen='').map
+    .lines
+    
+    
     script(src="/javascripts/jquery-3.1.1.min.js")
     script(src="/javascripts/main.js")
+    script(src="http://cdn.jsdelivr.net/vivus/latest/vivus.min.js")

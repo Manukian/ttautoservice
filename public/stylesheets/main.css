@@ -351,11 +351,50 @@ optgroup {
 @font-face {
   font-family: proxima-nova-extra-bold;
   src: url(../../fonts/ProximaNova/ProximaNovaExtrabold.otf) format("opentype"); }
+.lines {
+  position: absolute;
+  z-index: 1000;
+  height: 1800px;
+  top: 0;
+  width: 100%;
+  opacity: 0;
+  transition: 0.3s;
+  background-image: url(../images/lines.svg);
+  background-size: cover;
+  background-position: center top; }
+  .lines svg {
+    width: 100%; }
+
 #intro {
   height: 800px;
-  background-image: url(../images/IMG_9544.JPG);
+  color: black;
+  background-color: transparent;
   background-size: cover;
-  color: yellow; }
+  margin-bottom: 105px;
+  padding-top: 30px; }
+
+.top {
+  font-family: proxima-nova;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 2px; }
+
+.centered {
+  position: absolute;
+  left: 50%;
+  margin-left: -172px;
+  top: 39%; }
+
+.we_work {
+  margin-bottom: 10px;
+  opacity: 0;
+  -webkit-transform: translateX(-200px);
+  transition: 0.3s; }
+
+.phone {
+  transition: 0.3s;
+  opacity: 0;
+  -webkit-transform: translateX(200px); }
 
 .header_big {
   opacity: 0;
@@ -365,7 +404,7 @@ optgroup {
 
 .header_big_label {
   -webkit-transform: translateY(-200px);
-  font-family: proxima-nova-bold;
+  font-family: proxima-nova;
   font-size: 22px;
   opacity: 0;
   transition: 0.3s; }
@@ -373,66 +412,59 @@ optgroup {
 .logotype {
   position: absolute;
   left: 50%;
-  top: 50%;
-  margin-left: -170px;
-  margin-top: -60px; }
-
-.transform_clear {
-  -webkit-transform: translateX(0);
-  -webkit-transform: translateY(0);
-  opacity: 1; }
+  margin-left: -170px; }
 
 .bottom {
   text-align: center;
-  margin-top: 190px; }
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0; }
 
-@keyframes bounce {
-  0% {
-    transform: translateY(0); }
-  50% {
-    transform: translateY(30px); }
-  100% {
-    transform: translateY(0); } }
+#what_we_do {
+  min-height: 500px;
+  padding: 50px 0;
+  position: relative; }
+
+.wrapper {
+  width: 60%;
+  margin: 0 auto; }
+
+.label {
+  width: 40%;
+  display: inline-block;
+  vertical-align: top;
+  font-size: 18px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-family: proxima-nova-light;
+  color: #999; }
+
+.word {
+  display: inline-block;
+  padding-bottom: 10px; }
+
+.info {
+  width: 60%;
+  display: inline-block;
+  margin-bottom: 100px; }
+
+.info_row {
+  margin-bottom: 50px;
+  font-size: 22px;
+  font-family: proxima-nova-light; }
+
 .arrow {
+  display: none;
   opacity: 0;
   transition: 0.3s;
   cursor: pointer;
   padding: 20px;
-  display: inline-block;
-  width: 35px;
+  width: 25px;
   -webkit-animation: bounce 2s infinite;
   -moz-animation: bounce 2s infinite;
   -o-animation: bounce 2s infinite;
   animation: bounce 2s infinite; }
-
-#about {
-  min-height: 500px;
-  text-align: center;
-  padding: 100px 0;
-  background-color: black;
-  color: yellow; }
-
-.header_medium {
-  font-family: proxima-nova-thin;
-  font-size: 50px; }
-
-.possibilities {
-  padding: 100px 0; }
-
-.possibilities_item {
-  font-family: proxima-nova-light;
-  width: 33.3%;
-  float: left;
-  height: 300px;
-  padding: 0 60px;
-  box-sizing: border-box; }
-
-.item_image {
-  height: 35%;
-  margin-bottom: 50px; }
-
-.item_text {
-  font-size: 20px; }
 
 #map {
   height: 600px; }
@@ -440,5 +472,50 @@ optgroup {
 .map {
   width: 100%;
   height: 100%; }
+
+.transform_clear {
+  -webkit-transform: translateX(0);
+  -moz-transform: translateX(0);
+  -o-transform: translateX(0);
+  -webkit-transform: translateY(0);
+  -moz-transform: translateY(0);
+  -o-transform: translateY(0);
+  opacity: 1; }
+
+@media(max-width: 1024px) {
+  #intro {
+    background-image: url(../images/IMG_9544.JPG);
+    background-size: cover;
+    color: yellow; }
+
+  .top {
+    margin-bottom: 230px; }
+
+  .lines {
+    display: none; }
+
+  .arrow {
+    display: inline-block; }
+
+  .wrapper {
+    width: 70%; } }
+@media(max-width: 700px) {
+  #intro {
+    margin-bottom: 40px; }
+
+  .wrapper, .info {
+    width: 90%; }
+
+  .info_row {
+    margin-bottom: 25px; }
+
+  .label {
+    margin-bottom: 40px; } }
+@media(max-width:400px) {
+  .header_big {
+    font-size: 70px; }
+
+  .centered {
+    margin-left: -150px; } }
 
 /*# sourceMappingURL=main.css.map */

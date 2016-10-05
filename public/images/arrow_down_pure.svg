@@ -1,9 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="30.8 28.1 38.9 45.2" enable-background="new 30.8 28.1 38.9 45.2" xml:space="preserve">
-<path stroke="#FFFD38" stroke-width="2" stroke-miterlimit="10" d="M50,35.3c0.3,0,0.6,0.3,0.6,0.6v26.8l9.2-9.3
-	c0.1-0.1,0.2-0.2,0.4-0.2c0.3,0,0.6,0.3,0.6,0.6c0,0.2-0.1,0.3-0.2,0.4L50.5,64.5c-0.1,0.1-0.2,0.2-0.4,0.2c-0.1,0-0.3-0.1-0.4-0.2
-	L39.4,54.2c-0.1-0.1-0.2-0.2-0.2-0.4c0-0.3,0.3-0.6,0.6-0.6c0.2,0,0.3,0.1,0.4,0.2l9.2,9.2V35.8C49.4,35.5,49.7,35.3,50,35.3z"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="278px" height="375px" viewBox="0 0 278 375" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>Untitled 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="arrow_down_pure" transform="translate(5.000000, 5.000000)" stroke="#FFFF00" stroke-width="9" fill="#FFFF00">
+            <path d="M134,0.3 C137.7,0.3 141.4,4 141.4,7.7 L141.4,339.7 L255.4,224.5 C256.6,223.3 257.9,222 260.4,222 C264.1,222 267.8,225.7 267.8,229.4 C267.8,231.9 266.6,233.1 265.3,234.4 L140.2,362.1 C139,363.3 137.7,364.6 135.2,364.6 C134,364.6 131.5,363.4 130.2,362.1 L2.7,234.5 C1.5,233.3 0.2,232 0.2,229.5 C0.2,225.8 3.9,222.1 7.6,222.1 C10.1,222.1 11.3,223.3 12.6,224.6 L126.6,338.6 L126.6,6.6 C126.6,2.8 130.3,0.3 134,0.3 L134,0.3 Z" id="Shape"></path>
+        </g>
+    </g>
 </svg>
