@@ -1,8 +1,4 @@
 $(document).ready(function() {
-    $('#intro').height($(window).height());
-    $(document).resize(function(){
-        $('#intro').height($(window).height());
-    });
     
     $.fn.scrollView = function () {
         return this.each(function () {
@@ -34,7 +30,7 @@ $(document).ready(function() {
     mapboxgl.accessToken = 'pk.eyJ1IjoidmFnZ2kyNSIsImEiOiJjaXR3ajQ4b28wMDczMnptbG9lZHB5NDFsIn0.iQyPwQv4pF20jA1wwsxbkw';
     var map = new mapboxgl.Map({
         container: 'map', // container id
-        style: 'mapbox://styles/vaggi25/citwl2c6v00712iolz4bb9bxo', //stylesheet location
+        style: 'mapbox://styles/mapbox/streets-v9', //stylesheet location
         center: [18.756,42.381], // starting position
         zoom: 15.1 // starting zoom
     });

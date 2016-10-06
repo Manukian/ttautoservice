@@ -38,11 +38,10 @@
         width: 100%
 
 #intro
-    height: 800px
+    height: 768px
     color: black
     background-color: transparent
     background-size: cover
-    margin-bottom: 105px
     padding-top: 30px
 
 .top
@@ -55,7 +54,7 @@
     position: absolute
     left: 50%
     margin-left: -172px
-    top: 39%
+    top: 250px
     
 .we_work
     margin-bottom: 10px
@@ -153,8 +152,9 @@
     -moz-transform: translateY(0)
     -o-transform: translateY(0)
     opacity: 1
-    
-@media(max-width: 1024px)
+
+
+/*@media(max-width: 1024px)
     #intro
         background-image: url(../images/IMG_9544.JPG)
         background-size: cover
@@ -167,8 +167,30 @@
         display: inline-block
     .wrapper
         width: 70%
+
+@media(max-width: 1115px)
+    .lines
+        background-image: url(../images/lines_1115.svg)
         
-@media(max-width: 700px)
+@media(max-width: 974px)
+    .lines
+        background-image: url(../images/lines_974.svg)
+        
+@media(max-width:930px)
+    .lines
+        background-image: url(../images/lines_930.svg)
+
+@media(max-width:842px)
+    .lines
+        background-image: url(../images/lines_842.svg)
+
+@media(max-width: 767px)
+    .lines
+        z-index: -1000
+    #what_we_do
+        background-color: white
+    .word
+        border-bottom: solid 5px #38A4F7
     #intro
         margin-bottom: 40px
     .wrapper,.info

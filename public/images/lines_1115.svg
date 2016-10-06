@@ -67,7 +67,7 @@
         </g>
         <circle id="Oval-2" stroke="#38A4F7" stroke-width="3" cx="1160.5" cy="748.5" r="65.5"></circle>
         <circle id="Oval-2" stroke="#38A4F7" stroke-width="3" cx="264.5" cy="1111.5" r="65.5"></circle>
-        <g id="Group-2" transform="translate(303.000000, 1646.000000)">
+        <g id="Group-2" transform="translate(303.000000, 1668.000000)">
             <mask id="mask-7" fill="white">
                 <use xlink:href="#path-6"></use>
             </mask>
@@ -91,10 +91,10 @@
                 </g>
             </g>
         </g>
-        <circle id="Oval" stroke="#38A4F7" fill="#38A4F7" cx="1136" cy="1325" r="7"></circle>
-        <circle id="Oval" stroke="#38A4F7" fill="#38A4F7" cx="1136" cy="1418" r="7"></circle>
-        <circle id="Oval" stroke="#38A4F7" fill="#38A4F7" cx="1136" cy="1515" r="7"></circle>
-        <path d="M1136,1417 L1064,1417" id="Shape" stroke="#38A4F7" stroke-width="4"></path>
+        <circle id="Oval" stroke="#38A4F7" fill="#38A4F7" cx="1136" cy="1348" r="7"></circle>
+        <circle id="Oval" stroke="#38A4F7" fill="#38A4F7" cx="1136" cy="1443" r="7"></circle>
+        <circle id="Oval" stroke="#38A4F7" fill="#38A4F7" cx="1136" cy="1538" r="7"></circle>
+        <path d="M1136,1442 L1064,1442" id="Shape" stroke="#38A4F7" stroke-width="4"></path>
         <circle id="Oval" stroke="#38A4F7" fill="#38A4F7" cx="505" cy="848" r="7"></circle>
         <circle id="Oval" stroke="#38A4F7" fill="#38A4F7" cx="505" cy="993" r="7"></circle>
         <circle id="Oval" stroke="#38A4F7" fill="#38A4F7" cx="505" cy="1063" r="7"></circle>
@@ -104,14 +104,14 @@
         <circle id="Oval" stroke="#38A4F7" fill="#38A4F7" cx="805" cy="107" r="7"></circle>
         <circle id="Oval" stroke="#38A4F7" fill="#38A4F7" cx="551" cy="107" r="7"></circle>
         <path d="M556.973764,107.002771 L800.474875,107.002771" id="Shape" stroke="#38A4F7" stroke-width="4"></path>
-        <polyline id="Shape" stroke="#38A4F7" stroke-width="4" points="677.336 420.308115 677.336 747.984 504.531 748.012 504 1237.832 1136.095 1237.725 1136.095 1765.83134"></polyline>
+        <polyline id="Shape" stroke="#38A4F7" stroke-width="4" points="677.336 420.308115 677.336 747.984 504.531 748.012 504 1237.832 1136.095 1237.725 1136.095 1774.44983"></polyline>
         <path d="M577,1137 L505,1137" id="Shape" stroke="#38A4F7" stroke-width="4"></path>
         <path d="M577,1062 L505,1062" id="Shape" stroke="#38A4F7" stroke-width="4"></path>
         <path d="M577,848 L505,848" id="Shape" stroke="#38A4F7" stroke-width="4"></path>
         <path d="M577,917 L505,917" id="Shape" stroke="#38A4F7" stroke-width="4"></path>
         <path d="M577,993 L505,993" id="Shape" stroke="#38A4F7" stroke-width="4"></path>
-        <path d="M1136,1325 L1064,1325" id="Shape" stroke="#38A4F7" stroke-width="4"></path>
-        <path d="M1136,1515 L1064,1515" id="Shape" stroke="#38A4F7" stroke-width="4"></path>
+        <path d="M1136,1348 L1064,1348" id="Shape" stroke="#38A4F7" stroke-width="4"></path>
+        <path d="M1136,1537 L1064,1537" id="Shape" stroke="#38A4F7" stroke-width="4"></path>
         <path d="M677.5,748 L1093,748" id="Line" stroke="#38A4F7" stroke-width="4" stroke-linecap="square"></path>
         <g id="brush" transform="translate(1141.000000, 710.000000)">
             <polygon id="Shape" fill="url(#linearGradient-10)" points="39 27 0 27 0 32 39 32 39 27"></polygon>
