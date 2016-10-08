@@ -3,39 +3,41 @@ html
   head
     title= title
     meta(name='viewport', content='width=device-width, initial-scale=1.0')
-    script(src="https://api.tiles.mapbox.com/mapbox-gl-js/v0.25.1/mapbox-gl.js")
-    link(rel="stylesheet", href="https://api.tiles.mapbox.com/mapbox-gl-js/v0.25.1/mapbox-gl.css")
     link(rel='stylesheet', href='/stylesheets/main.css')
   body
     section#intro
-        .top
+        .top_right
             .we_work с 9:00 - 18:00
             .phone +382-67-311-691
-        .centered
+            .vw Viber / WhatsApp
+        .top_left
             .header_big_label автосервис
             h1.header_big TRITONA
-        .bottom
-            img(src="../images/arrow_down_pure.svg", alt="").arrow
-    section#what_we_do
-        .wrapper
+        a.email(href="mailto:info@ttautoservice.me") наша почта: info@ttautoservice.me
+        .bottom_left
             .label 
                 .word Услуги
-            .info
-                .info_row Кузовные работы 
-                .info_row Восстановление геометрии кузова
-                .info_row Автопокраска
-                .info_row Полировка
-                .info_row Автослесарные работы (автоподъемник грузоподъемностью 2,3 т)
+            ul.info
+                li.info_row Кузовные работы 
+                li.info_row Восстановление геометрии кузова
+                li.info_row Автопокраска
+                li.info_row Полировка
+                li.info_row Автослесарные работы (автоподъемник грузоподъемностью 2,3 т)
+        .bottom_right
             .label 
                 .word Наши возможности
-            .info
-                .info_row Камера Firat ULTRA для окраски и сушки автомобилей
-                .info_row Работа со страховыми компаниями Черногории
-                .info_row Гарантия на все виды работ
+            ul.info
+                li.info_row Камера Firat ULTRA для окраски и сушки автомобилей
+                li.info_row Работа со страховыми компаниями Черногории
+                li.info_row Гарантия на все виды работ
+        .bottom 
+            .we_on_map мы на карте
+                img(src="../images/arrow_down_pure.svg", alt="").arrow
     section#map
-    .lines
+        iframe(src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d619.2145158225793!2d18.75543849142848!3d42.38090475034832!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7fd4258ebda47356!2z0JDQstGC0L7RgdC10YDQstC40YEgVHJpIFRvbmE!5e0!3m2!1sru!2sde!4v1475944233930', width='600', height='450', frameborder='0', style='border:0', allowfullscreen='').map
+
+
     
     
     script(src="/javascripts/jquery-3.1.1.min.js")
     script(src="/javascripts/main.js")
-    script(src="http://cdn.jsdelivr.net/vivus/latest/vivus.min.js")
