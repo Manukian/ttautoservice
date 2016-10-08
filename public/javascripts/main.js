@@ -10,6 +10,10 @@ $(document).ready(function() {
     
     $('.bottom').click(function(){
         $('#map').scrollView();
+    });    
+    
+    $('.go_up').click(function(){
+        $('#intro').scrollView();
     });
     
     setTimeout(function() {
