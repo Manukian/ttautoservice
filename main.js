@@ -8,32 +8,24 @@ $(document).ready(function() {
         });
     }
     
-    $('.bottom').click(function(){
-        $('#map').scrollView();
-    });    
+       var wow = new WOW(
+      {
+        boxClass:     'wow',      // animated element css class (default is wow)
+        animateClass: 'animated', // animation css class (default is animated)
+        offset:       20,          // distance to the element when triggering the animation (default is 0)
+        mobile:       true,       // trigger animations on mobile devices (default is true)
+        live:         true,       // act on asynchronously loaded content (default is true)
+        callback:     function(box) {
+          // the callback is fired every time an animation is started
+          // the argument that is passed in is the DOM node being animated
+        },
+        scrollContainer: null // optional scroll container selector, otherwise use window
+      }
+    );
+    wow.init();
     
-    $('.go_up').click(function(){
-        $('#intro').scrollView();
+    $('.find_us').click(function(){
+        $('.map').scrollView();
     });
-    
-    setTimeout(function() {
-        $('.we_work').addClass('transform_clear');
-        $('.phone').addClass('transform_clear');
-        $('.vw').addClass('transform_clear');
-        $('.email').addClass('transform_clear');
-    }, 600);
-    setTimeout(function() {
-        $('.header_big').addClass('transform_clear');
-    }, 900);
-    setTimeout(function() {
-        $('.header_big_label').addClass('transform_clear');
-    }, 1200);
-    setTimeout(function() {
-        $('.bottom_left').css('opacity','1');
-        $('.bottom_right').css('opacity','1');
-    }, 1700);
-    setTimeout(function() {
-        $('.bottom').css('opacity','1');
-    }, 2200);
     
 });

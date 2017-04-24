@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="250px" height="232px" viewBox="0 0 250 232" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M102.384226,0 C133.412639,0 250,3.73677911 250,3.73677911 C250,3.73677911 133.335675,7.99373041 102.875624,7.99373041 C72.4155728,7.99373041 0,3.73677911 0,3.73677911 C0,3.73677911 71.3558137,1.21501013e-16 102.384226,0 Z" id="path-1"></path>
+        <path d="M102.384226,0 C133.412639,0 250,3.73677911 250,3.73677911 C250,3.73677911 133.335675,7.99373041 102.875624,7.99373041 C72.4155728,7.99373041 0,3.73677911 0,3.73677911 C0,3.73677911 71.3558137,1.21501013e-16 102.384226,0 Z" id="path-3"></path>
+        <path d="M100.746079,0 C131.278037,0 246,3.73677911 246,3.73677911 C246,3.73677911 131.202304,7.99373041 101.229614,7.99373041 C71.2569236,7.99373041 0,3.73677911 0,3.73677911 C0,3.73677911 70.2141207,1.21501013e-16 100.746079,0 Z" id="path-5"></path>
+        <path d="M98.6983943,0 C128.609784,0 241,3.73677911 241,3.73677911 C241,3.73677911 128.53559,7.99373041 99.1721013,7.99373041 C69.8086122,7.99373041 0,3.73677911 0,3.73677911 C0,3.73677911 68.7870044,1.21501013e-16 98.6983943,0 Z" id="path-7"></path>
+        <path d="M98.6983943,0 C128.609784,0 241,3.73677911 241,3.73677911 C241,3.73677911 128.53559,7.99373041 99.1721013,7.99373041 C69.8086122,7.99373041 0,3.73677911 0,3.73677911 C0,3.73677911 68.7870044,1.21501013e-16 98.6983943,0 Z" id="path-9"></path>
+        <path d="M94.6030252,0 C123.273279,0 231,3.73677911 231,3.73677911 C231,3.73677911 123.202163,7.99373041 95.0570764,7.99373041 C66.9119893,7.99373041 0,3.73677911 0,3.73677911 C0,3.73677911 65.9327719,1.21501013e-16 94.6030252,0 Z" id="path-11"></path>
+        <path d="M94.1934883,0 C122.739628,0 230,3.73677911 230,3.73677911 C230,3.73677911 122.668821,7.99373041 94.6455739,7.99373041 C66.622327,7.99373041 0,3.73677911 0,3.73677911 C0,3.73677911 65.6473486,1.21501013e-16 94.1934883,0 Z" id="path-13"></path>
+        <path d="M87.6408978,0 C114.201219,0 214,3.73677911 214,3.73677911 C214,3.73677911 114.135338,7.99373041 88.0615339,7.99373041 C61.9877303,7.99373041 0,3.73677911 0,3.73677911 C0,3.73677911 61.0805766,1.21501013e-16 87.6408978,0 Z" id="path-15"></path>
+        <path d="M87.6408978,0 C114.201219,0 214,3.73677911 214,3.73677911 C214,3.73677911 114.135338,7.99373041 88.0615339,7.99373041 C61.9877303,7.99373041 0,3.73677911 0,3.73677911 C0,3.73677911 61.0805766,1.21501013e-16 87.6408978,0 Z" id="path-17"></path>
+        <path d="M77.8120121,0 C101.393606,0 190,3.73677911 190,3.73677911 C190,3.73677911 101.335113,7.99373041 78.1854741,7.99373041 C55.0358353,7.99373041 0,3.73677911 0,3.73677911 C0,3.73677911 54.2304184,1.21501013e-16 77.8120121,0 Z" id="path-19"></path>
+        <path d="M77.8120121,0 C101.393606,0 190,3.73677911 190,3.73677911 C190,3.73677911 101.335113,7.99373041 78.1854741,7.99373041 C55.0358353,7.99373041 0,3.73677911 0,3.73677911 C0,3.73677911 54.2304184,1.21501013e-16 77.8120121,0 Z" id="path-21"></path>
+        <path d="M64.2972942,0 C83.7831374,0 157,3.73677911 157,3.73677911 C157,3.73677911 83.7348037,7.99373041 64.6058917,7.99373041 C45.4769797,7.99373041 0,3.73677911 0,3.73677911 C0,3.73677911 44.811451,1.21501013e-16 64.2972942,0 Z" id="path-23"></path>
+        <path d="M63.8877573,0 C83.2494868,0 156,3.73677911 156,3.73677911 C156,3.73677911 83.201461,7.99373041 64.1943892,7.99373041 C45.1873174,7.99373041 0,3.73677911 0,3.73677911 C0,3.73677911 44.5260278,1.21501013e-16 63.8877573,0 Z" id="path-25"></path>
+        <path d="M43.410912,0 C56.566959,0 106,3.73677911 106,3.73677911 C106,3.73677911 56.5343261,7.99373041 43.6192645,7.99373041 C30.7042029,7.99373041 0,3.73677911 0,3.73677911 C0,3.73677911 30.254865,1.21501013e-16 43.410912,0 Z" id="path-27"></path>
+        <path d="M43.8204489,0 C57.1006095,0 107,3.73677911 107,3.73677911 C107,3.73677911 57.0676688,7.99373041 44.030767,7.99373041 C30.9938652,7.99373041 0,3.73677911 0,3.73677911 C0,3.73677911 30.5402883,1.21501013e-16 43.8204489,0 Z" id="path-29"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-606.000000, -2370.000000)">
+            <g id="Group-6" transform="translate(606.000000, 2370.000000)">
+                <g id="shadow-oval">
+                    <g id="ov" transform="translate(0.000000, -0.000000)">
+                        <g id="Oval-2" transform="translate(0.000000, 127.899687)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+                            <ellipse fill="#FAF000" mask="url(#mask-2)" cx="125" cy="-10.9913793" rx="125" ry="124.902038"></ellipse>
+                        </g>
+                        <g id="Oval-2" transform="translate(0.000000, 111.912226)">
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <use id="Mask" fill="#FAF000" xlink:href="#path-3"></use>
+                            <ellipse fill="#FAF000" mask="url(#mask-4)" cx="125" cy="4.9960815" rx="125" ry="124.902038"></ellipse>
+                        </g>
+                        <g id="Oval-2" transform="translate(2.000000, 95.924765)">
+                            <mask id="mask-6" fill="white">
+                                <use xlink:href="#path-5"></use>
+                            </mask>
+                            <use id="Mask" fill="#FAF000" xlink:href="#path-5"></use>
+                            <ellipse fill="#FAF000" mask="url(#mask-6)" cx="123" cy="20.9835423" rx="125" ry="124.902038"></ellipse>
+                        </g>
+                        <g id="Oval-2" transform="translate(4.000000, 79.937304)">
+                            <mask id="mask-8" fill="white">
+                                <use xlink:href="#path-7"></use>
+                            </mask>
+                            <use id="Mask" fill="#FAF000" xlink:href="#path-7"></use>
+                            <ellipse fill="#FAF000" mask="url(#mask-8)" cx="121" cy="36.9710031" rx="125" ry="124.902038"></ellipse>
+                        </g>
+                        <g id="Oval-2" transform="translate(4.000000, 143.887147)">
+                            <mask id="mask-10" fill="white">
+                                <use xlink:href="#path-9"></use>
+                            </mask>
+                            <use id="Mask" fill="#FAF000" xlink:href="#path-9"></use>
+                            <ellipse fill="#FAF000" mask="url(#mask-10)" cx="121" cy="36.9710031" rx="125" ry="124.902038"></ellipse>
+                        </g>
+                        <g id="Oval-2" transform="translate(10.000000, 63.949843)">
+                            <mask id="mask-12" fill="white">
+                                <use xlink:href="#path-11"></use>
+                            </mask>
+                            <use id="Mask" fill="#FAF000" xlink:href="#path-11"></use>
+                            <ellipse fill="#FAF000" mask="url(#mask-12)" cx="115" cy="52.9584639" rx="125" ry="124.902038"></ellipse>
+                        </g>
+                        <g id="Oval-2" transform="translate(12.000000, 159.874608)">
+                            <mask id="mask-14" fill="white">
+                                <use xlink:href="#path-13"></use>
+                            </mask>
+                            <use id="Mask" fill="#FAF000" xlink:href="#path-13"></use>
+                            <ellipse fill="#FAF000" mask="url(#mask-14)" cx="115" cy="52.9584639" rx="125" ry="124.902038"></ellipse>
+                        </g>
+                        <g id="Oval-2" transform="translate(18.000000, 47.962382)">
+                            <mask id="mask-16" fill="white">
+                                <use xlink:href="#path-15"></use>
+                            </mask>
+                            <use id="Mask" fill="#FAF000" xlink:href="#path-15"></use>
+                            <ellipse fill="#FAF000" mask="url(#mask-16)" cx="107" cy="68.9459248" rx="125" ry="124.902038"></ellipse>
+                        </g>
+                        <g id="Oval-2" transform="translate(17.000000, 175.862069)">
+                            <mask id="mask-18" fill="white">
+                                <use xlink:href="#path-17"></use>
+                            </mask>
+                            <use id="Mask" fill="#FAF000" xlink:href="#path-17"></use>
+                            <ellipse fill="#FAF000" mask="url(#mask-18)" cx="107" cy="68.9459248" rx="125" ry="124.902038"></ellipse>
+                        </g>
+                        <g id="Oval-2" transform="translate(30.000000, 31.974922)">
+                            <mask id="mask-20" fill="white">
+                                <use xlink:href="#path-19"></use>
+                            </mask>
+                            <use id="Mask" fill="#FAF000" xlink:href="#path-19"></use>
+                            <ellipse fill="#FAF000" mask="url(#mask-20)" cx="95" cy="84.9333856" rx="125" ry="124.902038"></ellipse>
+                        </g>
+                        <g id="Oval-2" transform="translate(29.000000, 191.849530)">
+                            <mask id="mask-22" fill="white">
+                                <use xlink:href="#path-21"></use>
+                            </mask>
+                            <use id="Mask" fill="#FAF000" xlink:href="#path-21"></use>
+                            <ellipse fill="#FAF000" mask="url(#mask-22)" cx="95" cy="84.9333856" rx="125" ry="124.902038"></ellipse>
+                        </g>
+                        <g id="Oval-2" transform="translate(47.000000, 15.987461)">
+                            <mask id="mask-24" fill="white">
+                                <use xlink:href="#path-23"></use>
+                            </mask>
+                            <use id="Mask" fill="#FAF000" xlink:href="#path-23"></use>
+                            <ellipse fill="#FAF000" mask="url(#mask-24)" cx="78" cy="100.920846" rx="125" ry="124.902038"></ellipse>
+                        </g>
+                        <g id="Oval-2" transform="translate(46.000000, 207.836991)">
+                            <mask id="mask-26" fill="white">
+                                <use xlink:href="#path-25"></use>
+                            </mask>
+                            <use id="Mask" fill="#FAF000" xlink:href="#path-25"></use>
+                            <ellipse fill="#FAF000" mask="url(#mask-26)" cx="78" cy="100.920846" rx="125" ry="124.902038"></ellipse>
+                        </g>
+                        <g id="Oval-2" transform="translate(72.000000, 0.000000)">
+                            <mask id="mask-28" fill="white">
+                                <use xlink:href="#path-27"></use>
+                            </mask>
+                            <use id="Mask" fill="#FAF000" xlink:href="#path-27"></use>
+                            <ellipse fill="#FAF000" mask="url(#mask-28)" cx="53" cy="116.908307" rx="125" ry="124.902038"></ellipse>
+                        </g>
+                        <g id="Oval-2" transform="translate(71.000000, 223.824451)">
+                            <mask id="mask-30" fill="white">
+                                <use xlink:href="#path-29"></use>
+                            </mask>
+                            <use id="Mask" fill="#FAF000" xlink:href="#path-29"></use>
+                            <ellipse fill="#FAF000" mask="url(#mask-30)" cx="53" cy="116.908307" rx="125" ry="124.902038"></ellipse>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
