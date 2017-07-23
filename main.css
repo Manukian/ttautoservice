@@ -316,6 +316,10 @@ main {
     border: none;
 }
 
+.social_line:hover a{
+    color: #1b1b1b;
+}
+
 .fa {
     margin-right: 10px;
 }
