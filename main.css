@@ -29,6 +29,7 @@ a {
     text-decoration: none;
     border-bottom: solid 2px #002FC1;
     transition: 0.3s;
+    cursor: pointer
 }
 
 a:hover {
@@ -55,6 +56,22 @@ a:visited:hover {
 
 main {
     position: relative;
+}
+
+.lang_change {
+	position: absolute;
+    text-align: right;
+    padding: 20px;
+    left: 0;
+    right: 0;
+    top: 0;
+}
+
+.language {
+	display: inline-block;
+    padding: 0 15px;
+    border: none;
+    float: right;
 }
 
 .find_us {
